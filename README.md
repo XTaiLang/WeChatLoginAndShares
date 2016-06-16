@@ -12,7 +12,7 @@
   
   ```
 
-### 环境搭建
+### 环境搭建和开发
 
   ```
   1.在XCode中建立你的工程
@@ -33,6 +33,15 @@
 ![demo](./resource/demo5.png)
 ![demo](./resource/demo6.png)
 ![demo](./resource/demo7.png)
+![demo](./resource/demo8.png)
+![demo](./resource/demo9.png)
+![demo](./resource/demo10.png)
+![demo](./resource/demo11.png)
+![demo](./resource/demo13.png)
+![demo](./resource/demo14.png)
+![demo](./resource/demo15.png)
+![demo](./resource/demo16.png)
+![demo](./resource/demo17.png)
 
 ### 目前关注
 
