@@ -23,16 +23,16 @@
   5.在Xcode中，选择你的工程设置项，选中“TARGETS”一栏，在“info”标签栏的“URL type“添加“URL scheme”为你所注册的应用程序id,当然也能添加weibo qq 之类的，同理
   6. 并增加 WXApiDelegate 协议
   ```
-![demo](./demo1.png)
+![demo](./resource/demo1.png)
 
-![demo](./demo2.png)
+![demo](./resource/demo2.png)
 
-![demo](./demo3.png)
+![demo](./resource/demo3.png)
 
-![demo](./demo4.png)
-![demo](./demo5.png)
-![demo](./demo6.png)
-![demo](./demo7.png)
+![demo](./resource/demo4.png)
+![demo](./resource/demo5.png)
+![demo](./resource/demo6.png)
+![demo](./resource/demo7.png)
 
 ### 目前关注
 
