@@ -1,6 +1,16 @@
 # iOS 微信第三方登陆和分享、收藏
 
 
+### swift桥接oc 注意事项
+
+```
+1.在 swift桥接oc 的时候，先把需要依赖的文件加载进来 ， 通过General —> Linked Frameworks and Libraries
+2.在building setting 中 搜索 header 找到swift compiler 添加 Objective-C bridging Header
+3.在查看下需要桥接的.h 文件夹的路径是否正确 在 building setting 中搜索search path 找到 Library search paths 看文档的路径是否为.h文件的文件夹路径
+4.桥接成功
+
+```
+
 
 ### 准备工作
 
